@@ -187,7 +187,7 @@ The findings can help business stakeholders formulate data-driven hypotheses abo
 MCA Graduate | Aspiring Data Analyst
 
 - GitHub: [anilbasantia](https://github.com/anilbasantia)
-- LinkedIn: [Anil Basantia](https://www.linkedin.com/in/anil-basantia/)
+- LinkedIn: [Anil Basantia](www.linkedin.com/in/anil-basantia-)
 
 ## ⭐ Support
 
